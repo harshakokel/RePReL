@@ -1,8 +1,8 @@
 ### RePReL 
 
-This repository contains an implementation of the paper [Kokel et al. ICAPS 2021]().
+This repository contains an implementation of the paper [Kokel et al. ICAPS 2021](http://starling.utdallas.edu/papers/RePReL/).
 
-> RePReL : Integrating Relational Planning and Reinforcement Learning for Effective Abstraction  
+> RePReL: Integrating Relational Planning and Reinforcement Learning for Effective Abstraction  
 Harsha Kokel, Arjun Manoharan, Sriraam Natarajan, Ravindran Balaraman, Prasad Tadepalli  
 In **ICAPS 2021**
 
@@ -32,12 +32,14 @@ RePReL
 
 Please consider citing the following paper if you find our codes helpful. Thank you!
 
-@inproceedings{kokel2021,
-title={{RePReL} : Integrating Relational Planning and Reinforcement Learning for Effective Abstraction},
+```
+@inproceedings{kokeletal2021,
+title={{RePReL}: Integrating Relational Planning and Reinforcement Learning for Effective Abstraction},
 author={Kokel, Harsha and Manoharan, Arjun and Natarajan, Sriraam and Balaraman, Ravindran and Tadepalli, Prasad  },
-booktitle={ICAPS},
+booktitle={International Conference on Automated Planning and Scheduling ({ICAPS})},
 year={2021}
 }
+```
 
 
 
