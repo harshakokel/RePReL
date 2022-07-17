@@ -2,9 +2,7 @@
 
 This repository contains an implementation of the paper [Kokel et al. ICAPS 2021](http://starling.utdallas.edu/papers/RePReL/).
 
-> RePReL: Integrating Relational Planning and Reinforcement Learning for Effective Abstraction  
-Harsha Kokel, Arjun Manoharan, Sriraam Natarajan, Ravindran Balaraman, Prasad Tadepalli  
-In **ICAPS 2021**
+> For experiments of RePReL framework with deep RL and batch update, refer [Deep RePReL](https://github.com/starling-lab/DeepRePReL) repository.
 
 ### Abstract
 
